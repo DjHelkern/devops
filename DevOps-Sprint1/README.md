@@ -39,9 +39,7 @@ Terraform создает инфраструктуру и устанавлива�
 ![Sprint1](https://github.com/mazespd/DevOps-Srpint-1/assets/131882625/b9ea5a65-640e-40c6-a760-13e28a258511)
 
 
-
-![271753775-02ea14a3-a02c-4009-9bc7-82643c7b0212](https://github.com/DjHelkern/devops/assets/80486143/852acff9-8af2-4706-8e6f-e792097f2078)
-
+![271753775-02ea14a3-a02c-4009-9bc7-82643c7b0212](https://github.com/DjHelkern/devops/assets/80486143/d584e33d-9f5d-4199-947c-f0589352e108)
 
 
 
